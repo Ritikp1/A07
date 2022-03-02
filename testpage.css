@@ -1,0 +1,10 @@
+.border{
+	font-family: Times, Verdana, Monospace;
+	font-size: 100%;
+	width: 500px;
+	margin: 0 auto;
+	padding: 1em;
+	border: 10px dashed blue;
+	border-radius: 15px;
+	text-align: left;
+}
